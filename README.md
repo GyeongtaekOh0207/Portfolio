@@ -39,11 +39,11 @@
 - C / C++
 - Python
 - Java
-- Enbedded C
+- Embedded C
 
 ### 하드웨어 & IoT
 - Raspberry Pi
-- Jatson Nano
+- Jetson Nano
 - Arduino
 - STM32
 - OpenCR
@@ -96,7 +96,7 @@
 
 ### 👉 터치터치 ATM
 
-> 터치 패널을 탑제한 아이들용 ATM 교육 시스템 (대한상공회의소 서울기술교육센터 3조 팀 프로젝트)
+> 터치 패널을 탑재한 아이들용 ATM 교육 시스템 (대한상공회의소 서울기술교육센터 3조 팀 프로젝트)
 >
 > - 개발기간 : 2025.01 ~ 2025.02
 > - 핵심 역할 : 팀장, 카메라 작동 및 자동 저장 전송, 비트맵을 활용한 UI 구성
