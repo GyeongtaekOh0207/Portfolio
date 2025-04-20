@@ -107,6 +107,19 @@
 
 <br/>
 
+### 🕹️ SCORE GAME
+
+> C++의 OOP를 사용한 간단한 게임 (대한상공회의소 서울기술교육센터 3조 팀 미니 프로젝트)
+>
+> - 개발기간 : 2024.12 ~ 2025.01
+> - 핵심 역할 : 팀원, 조이스틱과 버튼을 활용한 움직임제어, 타임틱을 사용한 게임 핵심로직 구현
+> - Language : C
+> - Skill : Uart, Clock, Timer, LED, Joystick
+>
+> [프로젝트 상세 페이지]
+
+<br/>
+
 ## 📫 연락처
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <a href="mailto:gyeongtaek.dev@gmail.com">
