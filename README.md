@@ -9,9 +9,11 @@
 <table>
   <tr>
     <td width="70%">
-      안녕하십니까! 저는 계속해서 배워 나가는 개발자 오경택입니다.<br><br>
-      기발한 아이디어와 사용자 중심의 획기적인 시스템을 만들기 위해 노력하고 있습니다.<br><br>
-      다양한 마이크로컨트롤러와 IoT 프로젝트 경험을 통해 문제 해결 능력과, 팀 협업 기술을 발전시켜 왔습니다.
+      안녕하십니까! 저는 계속해서 배워 나가는 개발자 오경택입니다.<br>
+      기발한 아이디어와 사용자 중심의 획기적인 시스템을 만들기 위해 노력하고 있습니다.<br>
+      다양한 마이크로컨트롤러와 IoT 프로젝트 경험을 통해 문제 해결 능력과,<br>
+      팀 협업 기술을 발전시켜 왔습니다.<br>
+      최근에 트렌드에 맞게 엣지 AI를 적용하기 위해 배워나가고 있습니다.
     </td>
     <td width="30%" align="center">
       <img src="https://github.com/user-attachments/assets/4e865b7d-c93f-477d-af75-31c7ac30d4ce" alt="오경택 프로필 사진" width="200" style="border-radius: 50%;" />
@@ -35,13 +37,13 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-### 프로그래밍 언어
+### 💬 프로그래밍 언어
 - C / C++
 - Python
 - Java
 - Embedded C
 
-### 하드웨어 & IoT
+### 💻 하드웨어 & IoT
 - Raspberry Pi
 - Jetson Nano
 - Arduino
@@ -53,11 +55,11 @@
 - 통신 모듈 WiFi / Bluetooth
 - 회로도 설계
 
-### 데이터베이스
+### 🗂️ 데이터베이스
 - MariaDB
 - MySQL
 
-### 기타도구
+### 🔧 기타도구
 - Git / Github
 - VSCode
 - Cube IDE
@@ -107,16 +109,31 @@
 
 <br/>
 
+## 📚 미니 프로젝트
+
 ### 🕹️ SCORE GAME
 
 > C++의 OOP를 사용한 간단한 게임 (대한상공회의소 서울기술교육센터 3조 팀 미니 프로젝트)
 >
 > - 개발기간 : 2024.12 ~ 2025.01
 > - 핵심 역할 : 팀원, 조이스틱과 버튼을 활용한 움직임제어, 타임틱을 사용한 게임 핵심로직 구현
-> - Language : C
-> - Skill : Uart, Clock, Timer, LED, Joystick
+> - Language : C, C++
+> - Skill : Uart, Clock, Timer, LED, Joystick, STM32
 >
-> [프로젝트 상세 페이지]
+> [프로젝트 상세 페이지] (https://github.com/GyeongtaekOh0207/ScoreGame)
+
+<br/>
+
+### 🍃 Smart C-air
+
+> 조도 센서와 PWN을 활용한 모터 제어 시스템 (대한상공회의소 서울기술교육센터 3조 팀 미니 프로젝트)
+>
+> - 개발기간 : 2024.12 ~ 2025.12
+> - 핵심 역할 : 팀원, PWM와 레지스터 설정을 통한 모터 제어
+> - Language : C
+> - Skill : Uart, Clock, Timer, CDS, STM32
+>
+> [프로젝트 상세 페이지] (https://github.com/GyeongtaekOh0207/SmartC-air)
 
 <br/>
 
